@@ -1,4 +1,4 @@
- Fayza AlYasi – Portfolio
+ Faizah AlYasi – Portfolio
 
 Hello! My name is Fayza AlYasi.
 I specialize in Information Technology, I am passionate about Cloud Computing ☁️.
