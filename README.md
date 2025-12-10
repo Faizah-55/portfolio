@@ -1,10 +1,12 @@
- Faizah AlYasi – Portfolio
+My Portfolio :
 
-Hello! My name is Fayza AlYasi.
+Hello! My name is Faizah AlYasi.
 I specialize in Information Technology, I am passionate about Cloud Computing ☁️
 I enjoy learning new cloud skills and building  AWS projects.
 
-📜 Certifications
+
+📜 Certifications:
+
 
 🟦 AWS Certified Solutions Architect – Associate
 
